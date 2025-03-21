@@ -4,7 +4,7 @@ https://fansspot.fun/videoplayback%20_1_.mp4
 #EXTINF:-1 tvg-id="1998" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb3n3_l-IOCsh6V5oMEjk2nFMRkd4NHV6hD5NDIoV5T3Xp2gKtzfoDdZN5&s=10" group-title="IPL",IPL English
 https://fansspot.fun/videoplayback.mp4
 
-#EXTINF:-1 tvg-id="Zoom2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="DishTV",Zoom 2
+#EXTINF:-1 tvg-id="Zoom2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="DggishTV",Zoom 2
 #EXTVLCOPT:http-user-agent=Denver1769
 https://play.denver1769.fun/Play/Z5/index3.php?id=0-9-bigmagic_1786965389
 
